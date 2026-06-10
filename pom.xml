@@ -6,7 +6,7 @@
 
   <groupId>com.qa</groupId>
   <artifactId>hello-maven-nathan</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>2-SNAPSHOT</version>
 
   <name>hello-maven-nathan</name>
   <!-- FIXME change it to the project's website -->
